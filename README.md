@@ -1,7 +1,7 @@
 # messagebird-go-rest-api-62
 For issue https://github.com/messagebird/go-rest-api/issues/62
 
-It havn't show error message
+It haven't show error message
 
 ````
 C:\Users\benny\Desktop\benny\code\messagebird-go-rest-api-62
